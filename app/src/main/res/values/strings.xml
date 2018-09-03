@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ElectricTime</string>
+    <string-array name="transportation_array">
+        <item>Walking</item>
+        <item>Boosted Mini S Board</item>
+        <item>Evolve Skateboard</item>
+        <item>OneWheel</item>
+        <item>MotoTec Skateboard</item>
+        <item>Segway Ninebot One S1</item>
+        <item>Segway i2 SE</item>
+        <item>Razor Scooter</item>
+        <item>GeoBlade 500</item>
+        <item>Hovertrax Hoverboard</item>
+    </string-array>
+    <string name="distance_value">Distance</string>
+    <string name="title">select mode of transportation and enter distance to travel</string>
+    <string name="button">submit</string>
+</resources>
